@@ -23,6 +23,18 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
 
 ## Connect With Me
