@@ -20,6 +20,7 @@
 | [0197-rising-temperature](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0608-tree-node) |
