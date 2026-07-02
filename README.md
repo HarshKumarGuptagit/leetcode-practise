@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0202-happy-number) |
+| [2485-find-the-pivot-integer](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/2485-find-the-pivot-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,10 @@
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
 
 ## Connect With Me
