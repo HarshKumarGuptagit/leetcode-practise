@@ -49,6 +49,14 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
 
 ## Connect With Me
