@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -54,15 +55,37 @@
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/2485-find-the-pivot-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
 
 ## Connect With Me
