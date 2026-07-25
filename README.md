@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [1260-shift-2d-grid](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1260-shift-2d-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
@@ -94,6 +95,14 @@
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
 
 ## Connect With Me
