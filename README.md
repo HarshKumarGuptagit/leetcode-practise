@@ -48,6 +48,7 @@
 | [0009-palindrome-number](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0202-happy-number) |
 | [2485-find-the-pivot-integer](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/2485-find-the-pivot-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3536-maximum-product-of-two-digits](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |
