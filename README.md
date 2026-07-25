@@ -58,6 +58,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +89,10 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
 
 ## Connect With Me
