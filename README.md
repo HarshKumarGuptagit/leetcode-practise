@@ -1,6 +1,6 @@
 # LeetCode Questions Practice
 
-## Languages
+## Languages 
 
 * Python (Pandas)
 * SQL (MySQL, Postgres)
