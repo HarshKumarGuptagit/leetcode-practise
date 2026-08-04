@@ -42,6 +42,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [3731-find-missing-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -61,12 +62,14 @@
 | [1260-shift-2d-grid](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1260-shift-2d-grid) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3731-find-missing-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/HarshKumarGuptagit/leetcode-practise/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
